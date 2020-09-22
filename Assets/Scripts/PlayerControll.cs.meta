@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 60feffc886bae6c4c968c04380d10aa8
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - player: {instanceID: 0}
+  - cenario: {instanceID: 0}
+  - chao: {fileID: 1267238199478840, guid: 557bfaf273cbd0f42ac0e309a5009b32, type: 3}
+  - bloco: {fileID: 1818340469889062, guid: ef1f1ad736cbe974eb3cc0ed3e67f85b, type: 3}
+  - moeda: {fileID: 1185211121326836, guid: fdbc3571d90b87341bcaedf63bd1b11d, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
